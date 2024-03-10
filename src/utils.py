@@ -13,8 +13,6 @@ class NormaliseIoT:
             "speed": self._build_speed,
             "fuel_level": self._build_fuel_level,
             "tire_pressure": self._build_tire_pressure,
-            "maintenance_required": self._build_maintenance_required,
-            "last_service_date": self._build_last_service_date,
             "timestamp": self._build_timestamp
         }
 
