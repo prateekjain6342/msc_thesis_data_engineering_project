@@ -8,7 +8,7 @@ class NormaliseIoT:
     def build(self):
         switcher = {
             "location": self._build_location,
-            "_build_battery_temperature": self._build_battery_temperature,
+            "battery_temperature": self._build_battery_temperature,
             "engine_temperature": self._build_engine_temperature,
             "speed": self._build_speed,
             "fuel_level": self._build_fuel_level,
