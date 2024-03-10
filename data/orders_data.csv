@@ -1,0 +1,1001 @@
+order_date,delivery_address,delivery_status,delivery_time,delivery_cost,recipient_name
+1/1/2024,11168 Kenwood Circle,in transit,19,716.67,Sean Ahlf
+1/1/2024,5513 Autumn Leaf Trail,delivered,57,782.35,Gerhard Spreull
+1/1/2024,6 Scofield Pass,delivered,52,134.78,Alice Yakovlev
+1/1/2024,67 Oneill Lane,pending,47,435.0,Corbet Vedeneev
+1/1/2024,54 Towne Parkway,delivered,10,436.59,Florry Rudeyeard
+1/1/2024,1 Oxford Circle,in transit,49,314.94,Early Middleton
+1/1/2024,5 Eagle Crest Parkway,in transit,46,115.86,Barrie McColley
+1/1/2024,71184 Randy Road,in transit,24,626.62,Edwina Minett
+1/1/2024,65 Straubel Hill,pending,56,235.09,Wallis Cockney
+1/1/2024,4 Longview Street,in transit,55,475.19,Dale Lots
+1/1/2024,50489 Farwell Crossing,pending,53,281.28,Elisha Pickvance
+1/1/2024,17 Caliangt Lane,delivered,31,774.02,Odille Geere
+1/1/2024,76 Oakridge Hill,pending,14,376.99,Ron Dunnaway
+1/1/2024,4 Esker Junction,in transit,11,756.8,Wash Lethibridge
+1/1/2024,35 Hauk Crossing,in transit,26,247.64,Cherish Dayton
+1/1/2024,146 Kensington Circle,in transit,28,621.26,Rosemarie Boshers
+1/1/2024,90 Cardinal Crossing,in transit,6,183.51,Adrea Ebbers
+1/1/2024,34 Green Ridge Plaza,pending,56,83.68,Persis Caldroni
+1/1/2024,92700 Dorton Way,pending,3,71.1,Renie Denis
+1/1/2024,6 Continental Avenue,in transit,40,662.4,Maighdiln McReath
+1/1/2024,05 Maple Wood Road,in transit,34,259.18,Bruno Woodage
+1/1/2024,13212 Buena Vista Way,pending,19,150.69,Trueman Nund
+1/1/2024,21 Butternut Hill,pending,40,882.53,Hermina Barneveld
+1/1/2024,984 Utah Drive,pending,24,948.83,Gran Wallach
+1/1/2024,3981 Red Cloud Court,in transit,25,57.17,Maribel Wimms
+1/1/2024,3659 Menomonie Point,in transit,58,881.27,Marinna Abelov
+1/1/2024,3072 Carpenter Way,pending,36,797.43,Talbert Danieli
+1/1/2024,52 Browning Circle,in transit,44,203.11,Demetre McMillam
+1/1/2024,86986 Kipling Plaza,pending,15,302.6,Cletus Kellick
+1/1/2024,53 Bartillon Parkway,pending,16,109.6,Bayard Dran
+1/1/2024,67098 Bay Circle,in transit,17,748.03,Georgy Tanswell
+1/1/2024,01794 Gerald Point,delivered,49,519.09,Thedric Kippax
+1/1/2024,6885 Memorial Center,delivered,41,451.79,Emera Hamon
+1/1/2024,9398 Twin Pines Pass,delivered,51,635.57,Silvester MacSporran
+1/1/2024,35487 Moland Court,delivered,46,872.75,Maurice Harnor
+1/1/2024,570 Haas Avenue,pending,7,411.22,Omero Gittose
+1/1/2024,780 Carey Way,delivered,13,619.96,Staffard Nisius
+1/1/2024,2 Sullivan Hill,delivered,56,483.88,Hattie Brook
+1/1/2024,78917 Village Green Point,pending,32,621.25,Ailis McCready
+1/1/2024,0571 Sage Parkway,in transit,59,770.6,Lillis Denniston
+1/1/2024,287 Stoughton Way,in transit,20,148.45,Coop Sapsford
+1/1/2024,75813 Prairieview Road,delivered,30,271.94,Jeanie Spaducci
+1/1/2024,54 Arapahoe Plaza,pending,54,292.05,Dorene Wedlake
+1/1/2024,893 Schiller Alley,in transit,17,534.81,Sayer Lefeaver
+1/1/2024,37716 Alpine Way,in transit,5,861.22,Margery Ciccottio
+1/1/2024,151 Manitowish Lane,pending,22,824.92,Clevie Klossmann
+1/1/2024,52345 Stuart Lane,delivered,7,874.26,Orrin Neles
+1/1/2024,5 Golden Leaf Trail,delivered,28,625.29,Olivier Strowthers
+1/1/2024,4132 Shasta Street,delivered,27,120.48,Claudius Gerok
+1/1/2024,639 Cordelia Street,pending,52,491.9,Peterus Keinrat
+1/1/2024,0027 Huxley Alley,pending,51,11.07,Dilan Deniso
+1/1/2024,1059 Rigney Terrace,delivered,35,895.96,Gran Haughan
+1/1/2024,66423 Vidon Crossing,delivered,40,103.4,Keslie Stert
+1/1/2024,06221 Waxwing Crossing,in transit,48,604.03,Magdaia Farress
+1/1/2024,605 Victoria Junction,in transit,5,247.14,Sonny Deegin
+1/1/2024,59 Mendota Court,pending,53,873.15,Jobina Glancy
+1/1/2024,65 Esker Place,in transit,22,2.63,Abbe West
+1/1/2024,0 Petterle Street,delivered,10,898.29,Star Begley
+1/1/2024,81 Fairfield Park,pending,35,671.08,Hazel Delieu
+1/1/2024,18 Sundown Parkway,delivered,40,498.24,Barron Aldhouse
+1/1/2024,47 Twin Pines Court,in transit,16,5.82,Jasmina Lainton
+1/1/2024,5946 Prairie Rose Avenue,pending,31,955.73,Jefferson Davydzenko
+1/1/2024,35749 Fuller Court,in transit,4,860.83,Cathy Stampe
+1/1/2024,7 Kingsford Drive,pending,34,414.93,Thaddus Ginnane
+1/1/2024,2930 Cottonwood Junction,pending,15,875.82,Lilian McLauchlin
+1/1/2024,5316 Amoth Road,pending,1,995.22,Waylan Beecker
+1/1/2024,3859 Pennsylvania Hill,pending,43,556.81,Eilis Peter
+1/1/2024,2 Coleman Point,delivered,23,636.89,Rosco Tacon
+1/1/2024,93 Commercial Parkway,delivered,37,936.12,Tess Breslane
+1/1/2024,2943 Continental Junction,in transit,34,441.69,Sonnnie Greve
+1/1/2024,15407 Marcy Way,delivered,18,339.22,Lurleen Cashen
+1/1/2024,53 Summer Ridge Alley,in transit,57,823.41,Kaylee Frugier
+1/1/2024,4766 Bowman Junction,in transit,16,47.61,Jere Bucklee
+1/1/2024,97 Butterfield Center,delivered,39,363.87,Berta M'Barron
+1/1/2024,6817 Summer Ridge Parkway,in transit,30,760.74,North Izakson
+1/1/2024,743 Lakewood Center,in transit,39,521.71,Celestyna Austing
+1/1/2024,984 Killdeer Center,delivered,1,245.41,Humfried Trevaskis
+1/1/2024,7716 Truax Pass,delivered,44,851.89,Benton Trevain
+1/1/2024,20 Manitowish Park,in transit,58,592.98,Hamel Deeble
+1/1/2024,427 Granby Lane,delivered,8,401.82,Francois Haggerston
+1/1/2024,61 Marquette Parkway,in transit,25,697.48,Margeaux Kobierski
+1/1/2024,45 Southridge Center,pending,53,749.91,Glyn Lange
+1/1/2024,32 Morrow Hill,in transit,35,610.96,Wang Kiffe
+1/1/2024,838 Orin Hill,in transit,27,802.59,Shellysheldon Amsberger
+1/1/2024,78193 Onsgard Point,delivered,34,310.42,Edward Ferraresi
+1/1/2024,15 Sugar Point,pending,29,663.42,Samuel Theaker
+1/1/2024,8964 Clyde Gallagher Point,delivered,58,342.56,Allin Fruish
+1/1/2024,7724 Dapin Drive,in transit,19,455.84,Casandra Thickett
+1/1/2024,1663 Mayfield Street,in transit,39,116.27,Leona Kopelman
+1/1/2024,99 8th Pass,in transit,30,260.09,Teodora Shitliffe
+1/1/2024,0000 Kropf Plaza,delivered,1,928.52,Lynde Carruthers
+1/1/2024,94 Hoepker Way,delivered,49,15.07,Jacob Shorthill
+1/1/2024,7 Mosinee Parkway,in transit,32,969.19,Alicea Shellibeer
+1/1/2024,35 Jenifer Road,in transit,20,753.57,Bondon Schust
+1/1/2024,0780 Loftsgordon Drive,delivered,39,177.22,Jermaine Crewe
+1/1/2024,9 Sherman Way,delivered,4,279.72,Katinka Grimston
+1/1/2024,90 Di Loreto Hill,pending,28,170.4,Humfrey Fittall
+1/1/2024,4 Everett Pass,pending,18,958.55,Barbie Forde
+1/1/2024,30689 Pankratz Crossing,pending,4,417.21,Karlik Winspire
+1/1/2024,763 Vera Avenue,pending,5,760.76,Mercy Sasser
+1/1/2024,185 Fremont Terrace,in transit,25,556.09,Ignace Huggons
+1/1/2024,071 Gulseth Hill,in transit,28,716.08,Louis Scouse
+1/1/2024,029 Westend Road,delivered,49,400.49,Jillene Meddows
+1/1/2024,9 Marquette Terrace,in transit,31,164.65,Ario Balaam
+1/1/2024,3 Pond Circle,in transit,4,670.3,Saunders FitzGibbon
+1/1/2024,64 Monica Hill,delivered,52,960.96,Red Miall
+1/1/2024,72 Fieldstone Center,in transit,5,630.18,Norma Clouter
+1/1/2024,22874 Scott Street,in transit,18,162.89,Merv Cronshaw
+1/1/2024,1864 Ronald Regan Court,in transit,20,911.8,Neils Brankley
+1/1/2024,69120 Ludington Terrace,in transit,44,767.48,Ansel Gason
+1/1/2024,9 Forest Circle,pending,55,145.92,Cord Shillom
+1/1/2024,58 Union Circle,delivered,47,949.85,Thomasine Coghlin
+1/1/2024,344 Mockingbird Crossing,pending,42,302.49,Athene Romanet
+1/1/2024,3 Dayton Plaza,pending,49,632.93,Sasha Bentz
+1/1/2024,67 Dorton Center,in transit,60,196.79,Tamqrah Hillhouse
+1/1/2024,409 Sullivan Circle,in transit,48,788.88,Gerrard Paulucci
+1/1/2024,2894 Eagle Crest Trail,in transit,12,459.22,Jada Gunson
+1/1/2024,0652 Forest Run Drive,delivered,17,417.8,Blayne Ledgley
+1/1/2024,6050 Kingsford Point,delivered,16,447.98,Kath Swaden
+1/1/2024,5882 Bunker Hill Avenue,in transit,39,352.49,Ruperto Pay
+1/1/2024,7 Harper Road,pending,27,615.81,Abbie Ellesworth
+1/1/2024,8380 Jay Parkway,pending,58,30.05,Shadow Cocke
+1/1/2024,6102 Dryden Hill,delivered,28,724.81,Elysia Pearde
+1/1/2024,55 Jana Avenue,delivered,18,139.8,Eldon Mauro
+1/1/2024,46 High Crossing Alley,in transit,35,257.13,Allyson McConnel
+1/1/2024,390 Walton Center,delivered,50,603.43,Livvie Crim
+1/1/2024,1230 Anniversary Alley,delivered,40,395.08,Egan Madsen
+1/1/2024,3422 Banding Parkway,pending,44,888.92,Penni Ibanez
+1/1/2024,6357 Evergreen Crossing,in transit,19,952.23,Harli Olijve
+1/1/2024,6777 Walton Crossing,in transit,8,270.78,Florentia Bertot
+1/1/2024,3122 Mcbride Pass,in transit,38,299.03,Juana Blei
+1/1/2024,9905 Independence Crossing,in transit,20,256.81,Frederic Inde
+1/1/2024,46030 Miller Center,pending,58,99.86,Dane Brydon
+1/1/2024,821 Moose Street,pending,36,909.88,Letizia Stearn
+1/1/2024,6508 Brickson Park Place,in transit,50,56.71,Ag Piddlehinton
+1/1/2024,76 Holmberg Plaza,in transit,10,737.57,Bradford Padbery
+1/1/2024,27600 Artisan Avenue,in transit,23,240.27,Sauveur Crannell
+1/1/2024,23804 Kedzie Center,in transit,15,268.11,Hyacinthia Palmar
+1/1/2024,219 4th Hill,delivered,52,715.6,Ara Aronowicz
+1/1/2024,07 Londonderry Road,in transit,54,391.11,Carilyn Swin
+1/1/2024,81251 Morningstar Park,pending,47,264.46,Evangeline Iannetti
+1/1/2024,47 Crownhardt Junction,pending,38,12.57,Jinny Halton
+1/1/2024,4811 Blue Bill Park Place,in transit,13,365.29,Shawn Corby
+1/1/2024,4 Mandrake Street,delivered,15,572.54,Rosana Gerauld
+1/1/2024,5 Melody Place,delivered,18,861.59,Benjie Renachowski
+1/1/2024,1579 Shoshone Plaza,in transit,33,346.63,Flo Padilla
+1/1/2024,3 Monterey Alley,in transit,10,360.3,Renae Garaghan
+1/1/2024,482 Golf Course Street,delivered,1,580.44,Araldo Bingell
+1/1/2024,1030 Loftsgordon Park,pending,30,684.29,Ermanno Renish
+1/1/2024,60810 Kensington Terrace,delivered,27,948.01,Nils Spillett
+1/1/2024,158 Drewry Circle,pending,46,222.55,Brod Gethins
+1/1/2024,6051 Surrey Pass,delivered,51,415.56,Kimmie Birchenhead
+1/1/2024,6 Farmco Lane,delivered,53,671.64,Korrie Stowgill
+1/1/2024,9168 New Castle Point,pending,30,810.04,Carol Hamelyn
+1/1/2024,56 Del Mar Way,in transit,23,645.67,Stephie Raccio
+1/1/2024,4 Rusk Street,in transit,50,909.29,Wallas Willcock
+1/1/2024,2 Waywood Center,pending,24,107.58,Alexandrina Sarl
+1/1/2024,8125 Duke Park,in transit,52,227.37,Shay Gosse
+1/1/2024,7478 Aberg Avenue,pending,8,520.65,Gary Kett
+1/1/2024,2 Carey Junction,pending,42,422.55,Cyndy Shutler
+1/1/2024,6 Ridgeview Parkway,delivered,13,810.64,Tarrance Ogan
+1/1/2024,32022 Maple Wood Drive,delivered,56,330.24,Cary Wigg
+1/1/2024,6452 Northport Drive,in transit,25,519.95,Venus Olivelli
+1/1/2024,41 Shelley Plaza,pending,56,650.12,Elysha Barthrup
+1/1/2024,1816 Mosinee Center,in transit,16,746.4,Lurette O'Nolan
+1/1/2024,3 Nevada Circle,delivered,17,907.15,Rab Bernhardi
+1/1/2024,6 Buell Court,in transit,29,758.14,Heda Maharry
+1/1/2024,9 Calypso Plaza,delivered,28,736.32,Abbott Lude
+1/1/2024,169 Butternut Lane,pending,14,933.13,Rivkah Mulvin
+1/1/2024,866 Coleman Road,delivered,4,641.45,Rozina Poacher
+1/1/2024,08836 Thackeray Pass,delivered,30,526.33,Reggis Hartman
+1/1/2024,89 Elmside Terrace,delivered,12,185.81,Marthena Reay
+1/1/2024,7 Roth Drive,delivered,47,671.88,Erika Swadling
+1/1/2024,82007 Sheridan Hill,pending,21,77.25,Alli Holligan
+1/1/2024,5 John Wall Place,in transit,33,766.63,Mariel Aitken
+1/1/2024,427 Nancy Parkway,delivered,11,73.73,Maximo Heddon
+1/1/2024,90994 Eagle Crest Drive,in transit,16,158.19,Patricia Simcoe
+1/1/2024,15463 Mallory Plaza,in transit,44,333.17,Noam Stapforth
+1/1/2024,22392 La Follette Parkway,pending,57,352.36,Levi Kochs
+1/1/2024,20599 Northland Court,delivered,56,331.02,Christoph Southwick
+1/1/2024,8 Becker Avenue,pending,39,411.13,Ronald Casel
+1/1/2024,37324 Clemons Junction,pending,28,415.98,Nicoline Braganza
+1/1/2024,064 Montana Crossing,pending,6,290.66,Broderick Lifton
+1/1/2024,36 Bartelt Park,in transit,52,188.67,Constantina Jaques
+1/1/2024,65369 Daystar Trail,in transit,28,600.33,Ariadne Lechmere
+1/1/2024,166 Briar Crest Hill,delivered,30,203.58,Robinett Straine
+1/1/2024,056 Twin Pines Junction,pending,26,990.52,Georgeanna Wrotham
+1/1/2024,027 Union Alley,pending,27,77.74,Suzann Linay
+1/1/2024,45185 Bluestem Court,in transit,39,664.15,Kaylee Isakson
+1/1/2024,37750 Annamark Street,pending,56,345.31,Noella Koppeck
+1/1/2024,001 Menomonie Pass,delivered,48,325.03,Annie Sycamore
+1/1/2024,0396 Fairfield Drive,delivered,33,8.1,Grata Parade
+1/1/2024,4108 Bartillon Park,in transit,5,237.05,Tersina Tennet
+1/1/2024,1747 Ohio Alley,in transit,23,373.61,Editha Whitta
+1/1/2024,7974 Esker Way,pending,8,306.94,Leonora Cory
+1/1/2024,30 Farragut Hill,delivered,3,384.67,Lise Compton
+1/1/2024,07471 Michigan Circle,pending,55,529.07,Malva Alty
+1/1/2024,9 Grover Hill,delivered,31,76.4,Darcie Poyser
+1/1/2024,79 Mallard Street,in transit,5,50.47,Freemon Tute
+1/1/2024,7969 Delladonna Crossing,delivered,43,284.43,Tremayne Gaiter
+1/1/2024,1156 Surrey Circle,in transit,1,720.03,Calv Gilmore
+1/1/2024,1 Bunting Point,delivered,4,640.02,Jada O'Dunneen
+1/1/2024,98 Fuller Junction,delivered,51,704.85,Mozes O'Connor
+1/1/2024,61 Morningstar Avenue,pending,29,776.09,Cherin Wiggins
+1/1/2024,8 Pond Plaza,delivered,6,416.81,Meryl McGlue
+1/1/2024,7864 Lillian Center,in transit,6,141.59,Penelopa Winstanley
+1/1/2024,09 Sunfield Pass,delivered,25,333.15,Phyllida Kolyagin
+1/1/2024,1986 Hanson Avenue,pending,51,487.94,Duane Raggett
+1/1/2024,5 Manitowish Road,delivered,56,691.11,Kenton Gonzalo
+1/1/2024,04589 Huxley Drive,pending,30,266.6,Borg Clibbery
+1/1/2024,4 Old Shore Alley,delivered,41,847.04,Dane Castellaccio
+1/1/2024,7 Debs Alley,pending,55,910.03,Joscelin Scarffe
+1/1/2024,586 Schlimgen Avenue,delivered,22,902.97,Jimmie O'Scully
+1/1/2024,511 Florence Plaza,delivered,41,127.0,Irma Work
+1/1/2024,105 Lighthouse Bay Place,delivered,27,422.7,Ardeen Ferrelli
+1/1/2024,48349 Redwing Drive,delivered,28,773.6,Delcina Raccio
+1/1/2024,43 Debra Lane,pending,60,208.56,Viva MacEllen
+1/1/2024,23 Sage Terrace,delivered,42,324.64,Kassey Sunock
+1/1/2024,545 Sherman Hill,pending,4,423.26,Beatrisa Hews
+1/1/2024,59 Pennsylvania Hill,pending,51,477.37,Joelle Mordanti
+1/1/2024,57 Kropf Road,in transit,5,690.51,Scotty Ivanikhin
+1/1/2024,46 Victoria Junction,pending,49,653.07,Felicia Oxborough
+1/1/2024,4573 Towne Way,in transit,21,600.03,Humbert Balbeck
+1/1/2024,3 Rigney Crossing,in transit,57,460.4,Augusto Trudgian
+1/1/2024,53596 Almo Court,pending,52,85.65,Adolpho Chalk
+1/1/2024,5 Hooker Alley,delivered,26,858.36,Coreen O'Fallone
+1/1/2024,6 Anzinger Center,in transit,46,184.12,Arlina Dresser
+1/1/2024,3 Nobel Pass,in transit,27,185.02,Winnifred Christophe
+1/1/2024,12723 Southridge Place,in transit,24,492.62,Shayla Rudall
+1/1/2024,35 Pankratz Center,delivered,17,843.75,Minnaminnie Beacock
+1/1/2024,0300 Ilene Court,pending,20,576.97,Lory Dils
+1/1/2024,588 Crowley Road,in transit,26,686.46,Evania Burling
+1/1/2024,630 Farmco Pass,in transit,31,155.27,Irvin Baser
+1/1/2024,0293 2nd Circle,in transit,34,139.3,Abraham Klimkovich
+1/1/2024,2946 Talmadge Circle,in transit,13,294.43,Brendin Bamblett
+1/1/2024,5 Evergreen Terrace,delivered,12,11.14,Arlan Ondrasek
+1/1/2024,396 Leroy Crossing,in transit,31,648.31,Jan Govinlock
+1/1/2024,0 Tomscot Lane,pending,7,105.3,Hyman Watson-Brown
+1/1/2024,0977 Carpenter Terrace,delivered,56,651.4,Auria Jandera
+1/1/2024,48 Oriole Street,in transit,22,761.31,Orland Kinver
+1/1/2024,458 Corry Crossing,in transit,34,988.33,Ellissa Dallywater
+1/1/2024,656 Division Drive,delivered,6,704.95,Deane Winstanley
+1/1/2024,1852 Myrtle Pass,in transit,6,398.4,Clarinda Edkins
+1/1/2024,2580 Becker Circle,delivered,11,850.33,Jany Havers
+1/1/2024,88 Almo Crossing,pending,27,605.56,Tansy Howle
+1/1/2024,1 Esker Terrace,pending,58,361.15,Wren Hamshere
+1/1/2024,2 Pearson Place,in transit,59,278.55,Ferd Gentery
+1/1/2024,7 Chinook Alley,in transit,41,439.65,Janey Pesak
+1/1/2024,8 Kipling Circle,in transit,8,342.45,Umeko Catanheira
+1/1/2024,28 Tennyson Place,pending,29,89.85,Nonie MacGorrie
+1/1/2024,344 Forster Road,pending,22,920.6,Isacco Fransman
+1/1/2024,2 Talmadge Junction,in transit,29,739.61,Alf Scardifeild
+1/1/2024,1 Melody Lane,pending,33,245.92,Brant Stalf
+1/1/2024,685 Leroy Pass,delivered,54,921.88,Dory Pucknell
+1/1/2024,8 Hoepker Way,pending,53,159.9,Culley Ashwood
+1/1/2024,3235 Sunnyside Point,in transit,12,983.99,Almeda Olifaunt
+1/1/2024,3470 Granby Place,in transit,9,893.33,Jocko Seegar
+1/1/2024,059 South Drive,pending,26,829.18,Sib Hubbins
+1/1/2024,06375 Southridge Junction,in transit,13,488.92,Vivi Grayshan
+1/1/2024,057 Vera Parkway,pending,37,163.03,Dody Purcell
+1/1/2024,581 Butterfield Point,pending,56,294.76,Blondelle Vakhrushev
+1/1/2024,280 Daystar Circle,delivered,23,303.51,Ernst Meikle
+1/1/2024,4 Onsgard Center,pending,25,495.83,Griffy Passe
+1/1/2024,8 Maple Point,pending,39,775.29,Duane Cater
+1/1/2024,39 Bay Pass,in transit,42,854.16,Bebe Baude
+1/1/2024,0564 Ilene Crossing,delivered,4,800.33,Frankie Macro
+1/1/2024,97 Blaine Avenue,in transit,9,601.59,Rahel McNeilley
+1/1/2024,0629 Delaware Alley,pending,59,15.63,Hayden Grayer
+1/1/2024,81303 Banding Street,delivered,51,339.93,Skyler Gauntlett
+1/1/2024,80 Atwood Crossing,delivered,6,394.7,Trstram Abramowsky
+1/1/2024,1 Esch Parkway,pending,18,73.09,Carlita Fiddymont
+1/1/2024,3906 Mendota Crossing,pending,50,353.81,Rosie Borham
+1/1/2024,01891 Lerdahl Way,delivered,21,551.84,Erinn Vurley
+1/1/2024,823 Springs Court,delivered,31,698.78,Farlie Ackrill
+1/1/2024,183 Hallows Alley,in transit,52,210.45,Raff Trail
+1/1/2024,94 Sunbrook Lane,in transit,31,846.54,Steffen Gaitskill
+1/1/2024,2 Algoma Pass,delivered,48,427.67,Jeno Causer
+1/1/2024,001 Starling Place,delivered,60,656.23,Tuckie Bush
+1/1/2024,05906 Kim Trail,in transit,59,17.3,Chrysa Knowlton
+1/1/2024,91 Rusk Lane,in transit,2,89.54,Tabbi Desouza
+1/1/2024,37 Northland Circle,in transit,22,889.43,Alan Fenelon
+1/1/2024,901 Bartelt Center,delivered,51,209.86,Keir Deam
+1/1/2024,8 Gulseth Circle,pending,23,728.98,Thibaud Cook
+1/1/2024,6526 Russell Lane,in transit,13,184.85,Oates Slowgrove
+1/1/2024,20004 Northview Circle,in transit,15,678.87,Isak Duckels
+1/1/2024,65481 Pawling Avenue,in transit,15,198.28,Trey Ransfield
+1/1/2024,18 Welch Hill,delivered,40,506.23,Isaac Collibear
+1/1/2024,9424 Homewood Circle,in transit,39,544.62,Berny Glascott
+1/1/2024,8795 Sunfield Road,delivered,28,437.21,Bird Conti
+1/1/2024,5842 Continental Hill,pending,28,177.26,Hyatt Schaffler
+1/1/2024,7928 Blackbird Drive,pending,31,725.58,Briny McGettrick
+1/1/2024,13152 Ohio Lane,delivered,50,959.72,Coleman Pikesley
+1/1/2024,73 Ohio Street,delivered,40,475.04,Odelinda Button
+1/1/2024,12856 Tennyson Center,delivered,5,942.97,Mady Hardes
+1/1/2024,661 Farragut Circle,in transit,34,450.87,Rebekkah Sandercock
+1/1/2024,6 Ridgeview Hill,pending,38,226.63,Ferguson Minton
+1/1/2024,97 Randy Plaza,in transit,57,749.46,Clementius Hamberston
+1/1/2024,8479 School Circle,pending,21,107.01,Jeth Hendriksen
+1/1/2024,73014 Del Sol Trail,delivered,32,400.29,Blondie Dixey
+1/1/2024,9564 Shelley Avenue,pending,28,746.72,Nissie Grogona
+1/1/2024,13 Fieldstone Pass,in transit,10,176.35,Loraine Sexten
+1/1/2024,7 Oakridge Crossing,pending,5,907.74,Kellina Larvor
+1/1/2024,97502 Clove Trail,in transit,22,297.0,Jennifer Bezarra
+1/1/2024,24300 Tennessee Place,in transit,47,288.29,Pasquale Baynes
+1/1/2024,0 Fordem Road,in transit,51,132.91,Mitchel Houchin
+1/1/2024,0684 American Ash Point,delivered,52,472.07,Reggi Cummins
+1/1/2024,6118 Vidon Parkway,in transit,22,500.79,Cindie Millan
+1/1/2024,4 Larry Pass,pending,55,63.2,Gordie Lansdowne
+1/1/2024,52214 Florence Alley,in transit,43,436.86,Nye Ridpath
+1/1/2024,45 Arapahoe Drive,in transit,60,249.25,Jewel Church
+1/1/2024,4534 Michigan Plaza,in transit,34,82.5,Harvey Trenouth
+1/1/2024,9209 Westridge Terrace,delivered,58,123.26,Sileas de Verson
+1/1/2024,9 Aberg Junction,pending,35,715.97,Cybill Keattch
+1/1/2024,7573 Stoughton Circle,delivered,45,899.17,Arley Hazeldene
+1/1/2024,894 Waubesa Hill,pending,10,580.64,Chase Yegoshin
+1/1/2024,69083 Oakridge Street,pending,51,531.76,Lu Mahaddy
+1/1/2024,2731 Hoffman Place,pending,34,742.52,Junie Pheazey
+1/1/2024,072 Eagan Street,in transit,12,48.12,Baryram Nolli
+1/1/2024,3259 Corscot Circle,delivered,52,319.43,Ursuline Sheasby
+1/1/2024,5 Mendota Alley,in transit,17,199.91,Cal Ludovici
+1/1/2024,68904 Schurz Drive,in transit,17,781.57,Dulcie Farmery
+1/1/2024,8537 Mifflin Plaza,in transit,21,883.42,Mikaela Isted
+1/1/2024,35887 Shasta Junction,pending,60,384.37,Orv Katzmann
+1/1/2024,310 East Pass,delivered,25,288.16,Grantley McCafferty
+1/1/2024,0376 Warbler Junction,in transit,14,619.02,Saw Kenen
+1/1/2024,912 Union Trail,in transit,5,588.84,Bari Mitie
+1/1/2024,8485 Lien Way,pending,53,431.64,Jojo Petrillo
+1/1/2024,03848 Columbus Place,pending,21,26.61,Craggy Philliphs
+1/1/2024,8 Hollow Ridge Lane,in transit,13,501.11,Rik Bartholomaus
+1/1/2024,504 Sachs Place,pending,38,275.21,Stepha Prichard
+1/1/2024,8808 Sherman Crossing,delivered,58,686.6,Malissia Nowland
+1/1/2024,448 Rutledge Road,delivered,1,763.43,Frederik Timberlake
+1/1/2024,00345 Holmberg Street,in transit,26,967.04,Shannon Fawthrop
+1/1/2024,5 Thackeray Plaza,pending,27,485.41,Amerigo Raw
+1/1/2024,65202 Main Parkway,pending,42,380.92,Avrit Holleworth
+1/1/2024,48611 Ryan Parkway,in transit,26,477.03,Boris Lauridsen
+1/1/2024,34269 School Hill,in transit,28,845.66,Sarena Gater
+1/1/2024,75296 Sherman Street,in transit,6,739.25,Rivy Mustarde
+1/1/2024,8 Pierstorff Way,pending,27,464.83,Mark Janovsky
+1/1/2024,3 Declaration Pass,pending,23,200.66,Baldwin Lethcoe
+1/1/2024,6 Holy Cross Parkway,pending,4,571.57,Nannie Stuehmeier
+1/1/2024,33 Summer Ridge Crossing,in transit,48,58.51,Wang Proud
+1/1/2024,9 Eastlawn Avenue,delivered,50,229.85,Sly Dominey
+1/1/2024,1 Hanover Road,delivered,2,854.17,Yule Gumbley
+1/1/2024,99337 Farragut Park,in transit,30,28.73,Alecia Hofler
+1/1/2024,80 Dayton Point,in transit,5,122.17,Benyamin Devoy
+1/1/2024,55167 Chinook Avenue,in transit,13,711.96,Allyce Cossons
+1/1/2024,8 Kropf Place,delivered,50,559.46,Emmalyn Collip
+1/1/2024,86 Barnett Hill,pending,14,966.54,Micheal Caple
+1/1/2024,14718 Trailsway Lane,delivered,5,652.36,Amelina Meenan
+1/1/2024,5 Mifflin Hill,in transit,42,488.08,Ber Dorant
+1/1/2024,49 Forster Street,in transit,20,206.99,Lindy Rake
+1/1/2024,6180 Declaration Parkway,delivered,57,713.1,Pieter Creeboe
+1/1/2024,50 Mallory Center,in transit,33,414.01,Haily Di Roberto
+1/1/2024,670 Independence Court,in transit,34,941.0,Ediva Witz
+1/1/2024,8273 Katie Park,in transit,57,166.6,Horace Sellman
+1/1/2024,8 Colorado Place,pending,35,592.2,Nessy Peeke
+1/1/2024,61199 Sunnyside Way,delivered,17,882.39,Moselle Ickowics
+1/1/2024,60443 Texas Pass,in transit,5,590.39,Delores Habeshaw
+1/1/2024,267 Toban Court,pending,51,81.56,Twila Lanning
+1/1/2024,15970 Armistice Avenue,pending,20,599.62,Janetta Dauncey
+1/1/2024,50356 Sunbrook Avenue,delivered,12,941.43,Lawton Simic
+1/1/2024,3222 Warbler Road,delivered,42,685.65,Israel Fitchell
+1/1/2024,8512 Eagle Crest Junction,delivered,20,663.05,Fanchette Windrass
+1/1/2024,90209 Esker Place,pending,30,730.75,Meriel Turland
+1/1/2024,7788 La Follette Center,pending,6,695.45,Torre Boagey
+1/1/2024,4458 Graceland Crossing,in transit,9,172.02,Dimitry Pettko
+1/1/2024,480 Crescent Oaks Circle,in transit,35,419.65,Dean Hawgood
+1/1/2024,047 Sherman Point,pending,17,890.47,Raddy Dametti
+1/1/2024,434 Judy Terrace,pending,35,861.76,Arabela Dubock
+1/1/2024,33618 Bunker Hill Point,in transit,59,276.3,Kendricks Dolligon
+1/1/2024,7 East Terrace,pending,18,561.17,Karin Lacroux
+1/1/2024,3212 Blackbird Lane,delivered,18,871.64,Lucio Ginglell
+1/1/2024,439 Blaine Plaza,pending,28,735.06,Neil Bice
+1/1/2024,623 Sachs Drive,in transit,7,402.85,Lloyd Boas
+1/1/2024,3377 Redwing Terrace,in transit,52,621.26,Farlee Waylett
+1/1/2024,71708 Rockefeller Drive,in transit,12,686.42,Genovera Bayles
+1/1/2024,40747 Mallard Center,in transit,28,802.94,Alaine Geggus
+1/1/2024,87 Sutherland Drive,delivered,55,238.49,Henrietta Veschi
+1/1/2024,1075 Portage Terrace,pending,15,67.06,Dori Townsend
+1/1/2024,8 Thompson Road,pending,57,816.18,Judd Muckloe
+1/1/2024,9256 Mcbride Alley,pending,5,33.42,Chandal Clemits
+1/1/2024,78 Reindahl Parkway,pending,19,369.96,Bellanca Mithun
+1/1/2024,31851 Helena Street,delivered,27,724.93,Bibby Pavlasek
+1/1/2024,79427 Tennessee Point,in transit,51,263.56,Trace Longhorne
+1/1/2024,34 2nd Hill,in transit,17,297.31,Ignatius Carlyle
+1/1/2024,63 Kim Place,in transit,29,215.6,Alane MacCurtain
+1/1/2024,3 Monument Street,pending,14,103.47,Margarita Amerighi
+1/1/2024,069 Arapahoe Circle,pending,17,175.13,Pascal Wattam
+1/1/2024,1 Luster Drive,in transit,58,91.66,Anastassia Cardo
+1/1/2024,940 Washington Crossing,pending,38,265.91,Hildagarde Jollie
+1/1/2024,0230 School Pass,pending,8,519.7,Baxy Sanger
+1/1/2024,20951 Spenser Alley,pending,58,44.67,Paulo Souten
+1/1/2024,639 Thierer Junction,delivered,31,809.92,Mela Fransinelli
+1/1/2024,19882 Rusk Hill,delivered,9,947.95,Sherri De Ruggiero
+1/1/2024,64 Dexter Road,in transit,41,783.56,Krista Fidelli
+1/1/2024,90 Blaine Alley,delivered,28,662.15,Agosto Shelper
+1/1/2024,65716 West Crossing,pending,1,672.0,Ermentrude Scourgie
+1/1/2024,46 Green Court,delivered,33,583.43,Belvia Bunce
+1/1/2024,76835 Killdeer Terrace,pending,19,194.03,Allys Mendoza
+1/1/2024,923 Heath Drive,pending,55,776.14,Kimberli Slane
+1/1/2024,70 Manufacturers Circle,pending,4,105.33,Hallie Barens
+1/1/2024,90 Pond Trail,in transit,30,808.65,Orren Peacock
+1/1/2024,52 Luster Terrace,in transit,7,460.6,Bendite Gellett
+1/1/2024,57 Park Meadow Center,delivered,6,916.05,Dorolisa Marryatt
+1/1/2024,6268 Nelson Point,pending,18,849.51,Fidelio Hancill
+1/1/2024,784 Saint Paul Street,pending,14,18.57,Pierson Coxwell
+1/1/2024,6532 Pankratz Junction,pending,51,709.88,Gray Adamovitch
+1/1/2024,89846 Nova Point,in transit,30,207.04,Annie Bearsmore
+1/1/2024,01 Oak Trail,pending,57,22.53,Odille Sawood
+1/1/2024,893 Oneill Center,pending,36,816.62,Monika Ledson
+1/1/2024,85129 Merchant Crossing,delivered,22,300.86,Gordy Draco
+1/1/2024,4 Norway Maple Park,pending,43,372.78,Hubey Du Hamel
+1/1/2024,19080 Ryan Terrace,in transit,51,787.65,Dyan Burchess
+1/1/2024,77 Canary Lane,delivered,38,511.11,Drusie Bertrand
+1/1/2024,43417 Caliangt Center,in transit,19,755.15,Kahaleel Quibell
+1/1/2024,0052 Crest Line Terrace,pending,13,574.06,Yvon Cowlas
+1/1/2024,93 Milwaukee Lane,in transit,8,294.6,Issi O'Brallaghan
+1/1/2024,887 Hayes Street,pending,46,705.86,Clarine Rosengarten
+1/1/2024,90 Ramsey Place,delivered,27,106.5,Florinda McLucas
+1/1/2024,6 Redwing Parkway,delivered,38,366.73,Charlot Fulton
+1/1/2024,76183 Rieder Place,in transit,57,252.15,Ingrid Carbonell
+1/1/2024,13 Tennyson Street,delivered,46,809.73,Deane Doxsey
+1/1/2024,87 Surrey Point,delivered,10,279.6,Dalenna Berrisford
+1/1/2024,9133 Clemons Road,delivered,28,240.28,Debbie Moulton
+1/1/2024,4 Kensington Alley,pending,57,310.57,Allene Coop
+1/1/2024,268 Northridge Center,in transit,39,214.02,Demetris Yesson
+1/1/2024,2414 Sundown Alley,pending,1,345.45,Janela Turvey
+1/1/2024,94 Summerview Alley,pending,16,182.06,Michel Probert
+1/1/2024,8 Hallows Circle,in transit,21,216.97,Tandie Siward
+1/1/2024,79109 Homewood Crossing,pending,51,866.49,Alexa Anstice
+1/1/2024,498 Nancy Crossing,delivered,34,87.15,Kliment Mc Cahey
+1/1/2024,4606 Ohio Avenue,delivered,22,38.49,Mada Reeks
+1/1/2024,20 Ramsey Terrace,pending,8,831.85,Novelia Busfield
+1/1/2024,685 Southridge Place,in transit,44,736.78,Sidonnie Tremollet
+1/1/2024,112 Bay Terrace,pending,47,498.91,Kylen Husher
+1/1/2024,69959 Hallows Crossing,pending,19,854.09,Bartlet Piesold
+1/1/2024,2532 Sloan Drive,pending,11,892.33,Chrisse Climie
+1/1/2024,36736 Bayside Circle,pending,12,431.28,Star Armistead
+1/1/2024,0 Gale Circle,pending,21,57.73,Ned Kopke
+1/1/2024,58 Rowland Point,in transit,11,877.42,Barris Courtese
+1/1/2024,2 Anniversary Center,in transit,54,590.92,Miguela Padell
+1/1/2024,7 Division Trail,in transit,2,210.32,Loren Copcutt
+1/1/2024,1 5th Pass,pending,16,991.08,Josie Gaskoin
+1/1/2024,913 Spohn Junction,pending,49,820.41,Georgie Tirone
+1/1/2024,6 Truax Junction,pending,7,145.24,Liv Bamfield
+1/1/2024,34709 Lakeland Court,delivered,2,203.38,Talbert Gliddon
+1/1/2024,8 Merchant Pass,in transit,2,994.9,Dougy Grix
+1/1/2024,5 Brickson Park Place,in transit,56,470.4,Arie Borrie
+1/1/2024,7088 Village Green Center,delivered,29,714.55,Ellyn O'Rafferty
+1/1/2024,0929 Rieder Crossing,delivered,59,662.12,Leanora Rainsbury
+1/1/2024,83 Trailsway Hill,delivered,26,40.25,Reece Carbert
+1/1/2024,24894 Larry Hill,delivered,34,867.77,Nevin Kerslake
+1/1/2024,41 Lillian Circle,pending,29,643.44,Floris Stout
+1/1/2024,29831 Manley Road,in transit,49,777.95,Gallard Clubley
+1/1/2024,7477 Continental Hill,in transit,56,501.13,Amabel Brennon
+1/1/2024,03 Colorado Road,in transit,14,599.38,Veronique Gentner
+1/1/2024,345 Bay Alley,in transit,14,316.24,Queenie McGee
+1/1/2024,138 Bartillon Trail,pending,35,823.75,Carolann Mulvey
+1/1/2024,264 Fremont Lane,pending,46,270.93,Doralynn Rougier
+1/1/2024,15129 Valley Edge Trail,delivered,29,322.64,Ernestine Towl
+1/1/2024,315 Crownhardt Plaza,in transit,34,596.35,Brigitte Gurrado
+1/1/2024,88 Dakota Parkway,in transit,22,96.19,Lidia Collet
+1/1/2024,4 Judy Court,delivered,36,584.91,Keir Drynan
+1/1/2024,5 Oriole Street,pending,36,732.48,Forrest Carncross
+1/1/2024,373 American Alley,delivered,1,286.05,Arlene Dallan
+1/1/2024,96 Dorton Circle,in transit,60,129.53,Ange Gallie
+1/1/2024,233 Basil Center,delivered,54,227.83,Alfy Knoble
+1/1/2024,31402 Cascade Terrace,pending,28,596.79,Estel Bene
+1/1/2024,85724 Stone Corner Terrace,delivered,28,603.8,Bernardina Harbidge
+1/1/2024,57298 Nova Junction,delivered,3,798.97,Brannon Mobbs
+1/1/2024,57728 Melody Road,delivered,32,933.07,Adan Poles
+1/1/2024,08248 Summit Junction,in transit,44,663.82,Danya McElwee
+1/1/2024,1857 Eastlawn Avenue,in transit,54,471.05,Kort Binnell
+1/1/2024,022 Upham Junction,pending,57,61.51,Fernando Roebuck
+1/1/2024,52823 Oxford Park,in transit,8,810.56,Shandy Markus
+1/1/2024,475 Texas Drive,delivered,5,780.22,Aguistin Todarello
+1/1/2024,0 Farmco Terrace,in transit,14,665.41,Jerrilee Voden
+1/1/2024,6556 Harper Parkway,delivered,49,713.02,Theodora Magowan
+1/1/2024,7221 Dottie Circle,pending,35,781.03,Rowen Woofinden
+1/1/2024,9723 Northfield Hill,pending,41,566.58,Vernice Kennerknecht
+1/1/2024,8 Moulton Park,in transit,5,225.99,Arabella Henner
+1/1/2024,3528 Logan Crossing,delivered,47,300.77,Betta Caherny
+1/1/2024,922 Fieldstone Road,delivered,14,542.16,Lorne Burren
+1/1/2024,469 Lawn Terrace,pending,16,249.48,Catarina Hazeltine
+1/1/2024,19 Moland Terrace,delivered,49,287.24,Kenton Dearnaley
+1/1/2024,893 Park Meadow Terrace,in transit,8,953.07,Cody Kingcott
+1/1/2024,9 Golf Avenue,pending,49,654.89,Adriane Clubley
+1/1/2024,70161 Clyde Gallagher Way,delivered,16,942.5,Nicol Ksandra
+1/1/2024,5 Hoffman Court,delivered,25,220.67,Lucilia Perview
+1/1/2024,0328 Dunning Alley,in transit,27,972.08,Bridget Doxey
+1/1/2024,724 Commercial Parkway,in transit,42,439.81,Munmro Walthew
+1/1/2024,970 Kings Plaza,delivered,8,300.61,Torey Scholefield
+1/1/2024,401 Pepper Wood Court,in transit,57,384.25,Karlis Gorner
+1/1/2024,9492 Dahle Way,in transit,42,493.69,Ginnie Doddemeede
+1/1/2024,1100 Dryden Pass,delivered,35,502.86,Andie Took
+1/1/2024,9 Killdeer Center,delivered,57,974.66,Darlene Mabbs
+1/1/2024,3 Homewood Court,delivered,42,673.46,Lari Pahlsson
+1/1/2024,2631 Crescent Oaks Hill,pending,23,362.69,Kyle Pedlar
+1/1/2024,75026 Park Meadow Terrace,in transit,19,533.61,Sigismund Jowle
+1/1/2024,9 Lillian Drive,delivered,14,927.8,Lilas Cross
+1/1/2024,9578 Hovde Drive,delivered,23,159.52,Patti Blackall
+1/1/2024,8 Morning Court,delivered,38,19.46,Gradey Burree
+1/1/2024,26 Continental Street,in transit,10,372.11,Cheston Ormes
+1/1/2024,564 Talisman Pass,pending,23,533.12,Rosalinda Danilchev
+1/1/2024,279 1st Road,in transit,55,94.56,Janna Goodison
+1/1/2024,4518 Gateway Park,delivered,5,392.78,Wenona Larroway
+1/1/2024,0 Nancy Road,delivered,47,236.86,Ester Durkin
+1/1/2024,5653 Canary Place,delivered,36,871.69,Janek Leed
+1/1/2024,47291 Village Green Drive,in transit,29,629.17,Kala Pendleberry
+1/1/2024,423 Bashford Trail,in transit,2,489.2,Pauletta McGlew
+1/1/2024,61454 Morningstar Court,in transit,29,644.26,Phyllida Longson
+1/1/2024,054 Barnett Pass,in transit,57,738.19,Nady Rawstorn
+1/1/2024,6 Green Alley,delivered,21,149.86,Reinold Moffett
+1/1/2024,3 Red Cloud Junction,delivered,29,890.46,Anestassia Chate
+1/1/2024,881 Pierstorff Street,delivered,9,550.53,Susanne Mccaull
+1/1/2024,3 Golf View Plaza,in transit,50,665.02,Karoly Ledgley
+1/1/2024,66 Judy Trail,delivered,16,249.35,Debbie Coxhead
+1/1/2024,038 Bashford Street,in transit,38,142.64,Gram Dutson
+1/1/2024,365 Rockefeller Road,pending,13,668.01,Berkie Hedylstone
+1/1/2024,75 Burrows Lane,in transit,32,628.12,Rosa Soffe
+1/1/2024,4 Fairfield Park,delivered,8,503.11,Forster Dight
+1/1/2024,70 Ridge Oak Way,in transit,30,205.31,Tootsie Ffrench
+1/1/2024,7 Pepper Wood Lane,pending,38,846.66,Jany Constantine
+1/1/2024,32 Moland Crossing,delivered,11,332.8,Braden Sore
+1/1/2024,88 Farwell Park,delivered,32,220.28,Valma Relf
+1/1/2024,686 Fallview Street,delivered,55,798.35,Otes Ivanaev
+1/1/2024,484 Paget Plaza,pending,32,337.56,Doralin Jowsey
+1/1/2024,9 Vermont Court,in transit,50,261.24,Gayla Hundell
+1/1/2024,49717 Knutson Point,pending,32,959.15,Filberte Neill
+1/1/2024,353 School Park,delivered,41,443.82,Arvie Fessby
+1/1/2024,721 Amoth Place,in transit,5,578.64,Erik Liptrot
+1/1/2024,317 Huxley Plaza,delivered,39,417.03,Donielle Graves
+1/1/2024,1333 Northport Park,pending,29,797.89,Giorgia Micco
+1/1/2024,558 Merchant Pass,in transit,10,564.34,Hastings Killingsworth
+1/1/2024,057 Village Parkway,pending,22,141.51,Sebastiano Wartonby
+1/1/2024,3085 Morrow Alley,in transit,18,977.97,Sinclair Piwall
+1/1/2024,520 Jackson Road,in transit,17,280.98,Luke McIlvenna
+1/1/2024,1 Eagle Crest Circle,in transit,57,406.54,Fan Casetta
+1/1/2024,7 Packers Lane,delivered,11,163.43,Aubrey Rylance
+1/1/2024,7 Little Fleur Place,delivered,53,59.35,Bo Jobbing
+1/1/2024,28806 Buena Vista Pass,in transit,14,562.25,Esta Vasentsov
+1/1/2024,556 Talisman Crossing,pending,14,832.32,Nissa Plampeyn
+1/1/2024,43445 Kedzie Parkway,delivered,17,547.85,Lotty Habron
+1/1/2024,47837 Ronald Regan Trail,in transit,42,315.93,Saidee Arniz
+1/1/2024,107 Heath Center,pending,17,285.51,Ermanno Paty
+1/1/2024,157 Prairie Rose Junction,pending,46,199.27,Reginauld Sydall
+1/1/2024,103 3rd Plaza,delivered,50,22.65,Cornelia Antoinet
+1/1/2024,5 Messerschmidt Lane,pending,26,643.1,Beale Grima
+1/1/2024,97375 Thackeray Street,pending,36,860.04,Justin Darnbrook
+1/1/2024,78 Tomscot Avenue,in transit,47,283.9,Berne Worland
+1/1/2024,7210 Hudson Street,in transit,25,81.54,Pascal Agneau
+1/1/2024,0 Westend Court,in transit,45,509.33,Tabitha Braund
+1/1/2024,33 Lakewood Circle,delivered,32,484.82,Joby Jeeves
+1/1/2024,7784 David Circle,in transit,24,306.41,Eda Bonallick
+1/1/2024,87813 Sutteridge Park,pending,13,941.29,Pru Weems
+1/1/2024,13 Katie Way,delivered,21,453.48,Jenica Keppe
+1/1/2024,94 Algoma Place,in transit,46,644.3,Dionisio Rowet
+1/1/2024,8573 3rd Center,pending,35,144.35,Melly Kopecka
+1/1/2024,8138 Monument Pass,delivered,40,240.07,Zonda M'Quharge
+1/1/2024,138 Thierer Park,pending,12,263.69,Iggie Velten
+1/1/2024,9 Mesta Road,pending,17,274.39,Blayne Van de Velde
+1/1/2024,774 Cardinal Lane,pending,7,959.29,Marquita Traske
+1/1/2024,22909 Lerdahl Road,pending,37,727.22,Dimitry Jouhning
+1/1/2024,223 Harbort Avenue,in transit,16,199.56,Sherri Uebel
+1/1/2024,342 Fisk Plaza,pending,47,542.25,Garvey Jeandon
+1/1/2024,20378 Leroy Drive,in transit,56,521.14,Beryle MacCartney
+1/1/2024,48 Stang Point,in transit,9,742.02,Yevette Jost
+1/1/2024,28 Valley Edge Place,in transit,8,432.77,Dorri Manske
+1/1/2024,242 Cherokee Point,pending,21,46.67,Bartie Devorill
+1/1/2024,9772 Mayfield Court,in transit,53,556.32,Alfi Smoote
+1/1/2024,1620 Manufacturers Junction,delivered,5,553.64,Ritchie Chanders
+1/1/2024,9760 Di Loreto Parkway,pending,5,339.57,Elisabet Gascar
+1/1/2024,2334 Marcy Parkway,in transit,18,648.58,Ianthe Ransome
+1/1/2024,878 Bunting Terrace,in transit,2,115.82,Zane Eaken
+1/1/2024,5581 Express Hill,pending,39,649.25,Clevie Plak
+1/1/2024,9738 Heath Parkway,pending,21,691.49,Rees Filipychev
+1/1/2024,0 1st Point,delivered,47,562.87,Rickie Idel
+1/1/2024,021 Kim Parkway,pending,24,538.23,Aaren Bettington
+1/1/2024,3 Troy Road,delivered,53,722.48,Nina Giraudo
+1/1/2024,82 Red Cloud Crossing,pending,11,130.8,Baron Showering
+1/1/2024,20 Fieldstone Circle,delivered,47,350.07,Rinaldo Brothwood
+1/1/2024,74 Bashford Place,in transit,48,654.11,Nick Dotson
+1/1/2024,008 Continental Trail,pending,15,290.23,Carola Persse
+1/1/2024,78 Judy Terrace,in transit,54,683.34,Kelsi Swaby
+1/1/2024,5399 Brickson Park Trail,delivered,42,383.39,Nealon Shapiro
+1/1/2024,17558 Farwell Junction,in transit,26,293.19,Ashil Stickney
+1/1/2024,3606 Meadow Vale Road,in transit,42,62.29,Trixy Brownjohn
+1/1/2024,79 Lien Circle,delivered,6,918.84,Melania Fiveash
+1/1/2024,420 Bultman Plaza,in transit,34,354.86,Katee Tunder
+1/1/2024,59 Hansons Court,pending,22,936.53,Jaquelin Bendon
+1/1/2024,99 Ludington Avenue,delivered,11,84.05,Dulci Waterstone
+1/1/2024,2 Milwaukee Drive,in transit,20,119.09,Berrie Millott
+1/1/2024,39200 Weeping Birch Lane,pending,1,496.09,Krishna Clackers
+1/1/2024,91838 Sachtjen Pass,in transit,56,50.07,Shana Woodyer
+1/1/2024,8 Garrison Center,pending,13,512.48,Leonelle Schneidar
+1/1/2024,5838 Straubel Circle,delivered,10,68.14,Emory Borleace
+1/1/2024,20765 Tennyson Hill,in transit,28,944.98,Moishe McIlwraith
+1/1/2024,6 Lighthouse Bay Drive,delivered,51,68.03,Salomon McNelly
+1/1/2024,9 2nd Road,in transit,58,850.67,Leilah Heiton
+1/1/2024,79777 Boyd Lane,pending,5,504.3,Krista Sills
+1/1/2024,60316 Oxford Plaza,in transit,59,770.38,Missy Hoyles
+1/1/2024,9161 Pierstorff Trail,in transit,29,414.58,Lionello McLaughlin
+1/1/2024,834 Derek Lane,in transit,16,933.05,Hillary Kerby
+1/1/2024,3995 Dryden Pass,in transit,43,848.78,Ximenez O'Dwyer
+1/1/2024,074 Blaine Circle,in transit,24,547.72,Calli Cockton
+1/1/2024,52227 Lyons Place,delivered,5,88.97,Leilah Quirk
+1/1/2024,61 Nobel Road,delivered,48,679.4,Anica Ing
+1/1/2024,50 Meadow Vale Avenue,pending,22,660.7,Pamela Kibard
+1/1/2024,1682 Northport Road,delivered,11,896.16,Sabine Girone
+1/1/2024,9578 Gerald Court,pending,15,299.19,Shane Challicum
+1/1/2024,00 Lukken Park,delivered,35,692.46,Ezekiel Lindeman
+1/1/2024,24 Linden Way,in transit,24,907.3,Carmelina Myhill
+1/1/2024,95 Bultman Lane,in transit,43,826.44,Stanislas Chomiszewski
+1/1/2024,8279 Continental Place,in transit,15,738.65,Nata felip
+1/1/2024,050 Northridge Road,delivered,11,800.99,Ly Bawdon
+1/1/2024,14 Trailsway Alley,delivered,47,584.59,Minnaminnie Payle
+1/1/2024,29514 Myrtle Center,delivered,53,604.3,Amelina Hatry
+1/1/2024,3 Bunting Crossing,in transit,8,325.98,Mischa Chestnutt
+1/1/2024,7758 John Wall Street,pending,37,985.91,Torrin Haldon
+1/1/2024,6 Stuart Alley,in transit,31,634.65,Viviene Whyatt
+1/1/2024,49 Graceland Way,pending,46,3.06,Dorrie Trice
+1/1/2024,235 Arapahoe Lane,delivered,31,305.3,Leshia Van der Hoven
+1/1/2024,8 4th Park,pending,2,360.0,Konstance McKmurrie
+1/1/2024,487 Loomis Park,pending,35,702.75,Olga O' Shea
+1/1/2024,90296 Scoville Street,delivered,30,559.57,Lolly Simenel
+1/1/2024,31 Iowa Drive,delivered,53,953.77,Godiva Rayner
+1/1/2024,523 Sutherland Court,in transit,40,296.4,Gary Sellors
+1/1/2024,074 Stuart Street,delivered,9,987.57,Mathilde Dankov
+1/1/2024,95 Jackson Terrace,pending,19,982.47,Malissia Vinecombe
+1/1/2024,206 Dapin Park,delivered,56,714.15,Magdaia Blakely
+1/1/2024,40266 Ludington Junction,pending,7,610.19,Flint Goldby
+1/1/2024,0 Miller Junction,in transit,19,709.62,Tremaine Rumble
+1/1/2024,93 Lakeland Point,delivered,1,649.76,Preston Kalisch
+1/1/2024,8437 Stang Pass,delivered,49,172.67,Alair Zanini
+1/1/2024,72 Redwing Hill,in transit,19,706.0,Kinna Arnull
+1/1/2024,4316 Marquette Drive,pending,29,571.44,Michele Ganforth
+1/1/2024,4 Oakridge Way,in transit,29,472.38,Dulcine Kyffin
+1/1/2024,37984 Mcbride Parkway,in transit,37,896.82,Haze Padgham
+1/1/2024,9 Everett Road,pending,34,952.42,Dar Maggorini
+1/1/2024,284 Heath Street,pending,55,530.27,Anette Davidman
+1/1/2024,75914 Kings Park,in transit,18,645.52,Elberta Bromehed
+1/1/2024,0 Bowman Junction,in transit,41,260.8,Frances Quarterman
+1/1/2024,85916 Comanche Road,pending,35,752.75,Sephira Utting
+1/1/2024,4573 Novick Road,in transit,50,471.39,Zorana Stuart
+1/1/2024,495 Barby Pass,in transit,14,559.03,Emogene Brayne
+1/1/2024,6853 Lighthouse Bay Park,pending,29,624.05,Conrade Mounfield
+1/1/2024,0 Karstens Pass,in transit,60,471.97,Franny Sympson
+1/1/2024,9208 Vidon Crossing,delivered,34,878.88,Talia Cuerdall
+1/1/2024,5943 Clarendon Place,pending,47,475.71,Gwenni Spitaro
+1/1/2024,92 Doe Crossing Junction,in transit,36,497.63,Grace Rainon
+1/1/2024,90 7th Parkway,in transit,55,668.22,Horatius Bernakiewicz
+1/1/2024,7892 La Follette Street,delivered,22,915.38,Elsworth O'dell
+1/1/2024,89 Waywood Pass,in transit,58,620.68,Palm Cockshot
+1/1/2024,311 Lighthouse Bay Plaza,pending,20,332.31,Carlin Couchman
+1/1/2024,3 Bay Alley,delivered,6,590.18,Latashia Cherry Holme
+1/1/2024,1 Magdeline Plaza,pending,23,606.66,Maureene Bowerbank
+1/1/2024,26 Blaine Drive,in transit,15,361.56,Amii Toulson
+1/1/2024,9 Burning Wood Road,in transit,55,963.46,Renaldo Twallin
+1/1/2024,72 Miller Lane,in transit,8,858.48,Leandra Woodham
+1/1/2024,9806 Green Ridge Terrace,in transit,15,928.75,Pavlov Johanning
+1/1/2024,04122 West Place,in transit,20,416.62,Osbourne Charity
+1/1/2024,45325 Hazelcrest Trail,pending,4,999.06,Farica Miller
+1/1/2024,3002 Service Way,in transit,35,58.58,Daryle Tharme
+1/1/2024,6957 Forster Place,delivered,26,516.36,Marabel Gipps
+1/1/2024,8584 Quincy Drive,delivered,11,385.73,Ottilie Erat
+1/1/2024,5 Northridge Road,pending,26,897.91,Raye Wilflinger
+1/1/2024,5199 Lotheville Court,in transit,10,28.3,Henry Van Baaren
+1/1/2024,11483 New Castle Drive,pending,19,934.37,James Seater
+1/1/2024,24857 Katie Hill,pending,41,639.12,Jermain Batchan
+1/1/2024,9127 Doe Crossing Road,in transit,2,383.33,Coleen Gynne
+1/1/2024,71194 Ramsey Trail,in transit,35,915.44,Norri Bess
+1/1/2024,065 Lukken Way,delivered,54,499.32,Adda Chanter
+1/1/2024,1 7th Center,in transit,16,341.16,Herschel Birds
+1/1/2024,296 Warrior Way,in transit,60,122.43,Robinette Gardener
+1/1/2024,73094 Golf Plaza,delivered,17,295.0,Tine Marsland
+1/1/2024,6357 Pankratz Trail,pending,57,534.71,Jilleen Paling
+1/1/2024,27 Ludington Junction,delivered,8,918.94,Lindsy Kittles
+1/1/2024,31 Esch Plaza,pending,56,299.87,Bethanne Lawley
+1/1/2024,8501 Hooker Pass,pending,19,473.86,Burnaby Gitsham
+1/1/2024,384 Meadow Valley Center,delivered,37,286.68,Allin Bourke
+1/1/2024,27 Blue Bill Park Plaza,pending,24,846.4,Layne Statefield
+1/1/2024,3234 Derek Trail,in transit,6,282.82,Orv Oliva
+1/1/2024,04885 Linden Avenue,pending,18,266.61,Arnoldo Pinchen
+1/1/2024,017 Granby Avenue,in transit,31,980.85,Hildy Staley
+1/1/2024,9 Transport Center,delivered,7,872.45,Winifield Yarnold
+1/1/2024,53331 Sunnyside Terrace,pending,15,567.93,Vergil Tully
+1/1/2024,28215 Lyons Crossing,pending,31,690.33,Dulce Hancorn
+1/1/2024,523 Basil Avenue,delivered,23,640.69,Gal Crowley
+1/1/2024,083 Anniversary Place,delivered,21,590.1,Griz MacBey
+1/1/2024,56 Russell Street,pending,44,676.71,Gretel Andriveau
+1/1/2024,5 Myrtle Plaza,in transit,9,626.42,Glynis Flamank
+1/1/2024,6 Bowman Alley,delivered,25,506.82,Prescott Grishanin
+1/1/2024,456 Ludington Junction,pending,5,691.92,Annis Celiz
+1/1/2024,9 Little Fleur Hill,pending,27,402.1,Sabrina Aynold
+1/1/2024,7830 Farragut Drive,delivered,18,447.75,Lillis Zecchinelli
+1/1/2024,449 Pepper Wood Junction,delivered,17,829.61,Sharron Sutherley
+1/1/2024,2444 Kinsman Plaza,in transit,5,642.55,Elvera Livingstone
+1/1/2024,39757 Carey Circle,in transit,31,544.26,Amity Burtwistle
+1/1/2024,2944 Utah Plaza,in transit,30,138.58,Wenonah Bartul
+1/1/2024,75 Melby Plaza,pending,6,294.31,Mathilde Gow
+1/1/2024,189 Killdeer Lane,delivered,21,979.33,Sondra Whyborne
+1/1/2024,00 7th Court,delivered,20,513.04,Georg Cressy
+1/1/2024,396 Eliot Court,in transit,44,452.86,Delora Narbett
+1/1/2024,863 Eagle Crest Pass,in transit,50,461.66,Georgie Normanville
+1/1/2024,1 Spenser Center,pending,52,616.5,Kelbee Taffley
+1/1/2024,48 Johnson Way,pending,59,396.98,Jena Huddles
+1/1/2024,09 Darwin Street,in transit,33,550.71,Fanny Gierke
+1/1/2024,62 Lyons Plaza,delivered,15,30.01,Garvey Goghin
+1/1/2024,4 Browning Place,in transit,23,888.93,Vale Readings
+1/1/2024,2178 Lakewood Drive,delivered,46,730.34,Tabby Lidell
+1/1/2024,262 Wayridge Park,pending,58,176.67,Gale McGarrity
+1/1/2024,4 Crest Line Circle,delivered,6,590.2,Deane Bellie
+1/1/2024,0 Schlimgen Lane,pending,14,870.41,Winfield Kubas
+1/1/2024,21453 Crowley Terrace,delivered,28,350.6,Margy Bernhart
+1/1/2024,2 Carberry Plaza,delivered,5,455.42,Rachel Appleyard
+1/1/2024,62807 Lakewood Gardens Plaza,delivered,26,78.47,Ewen Halbeard
+1/1/2024,082 3rd Parkway,pending,5,970.51,Bealle Wadie
+1/1/2024,3807 Spohn Park,pending,7,502.95,Grace Verduin
+1/1/2024,2281 Manley Lane,delivered,48,398.0,Isidoro Espada
+1/1/2024,994 Barby Place,delivered,28,245.15,Farrel Cathee
+1/1/2024,426 Warrior Trail,pending,10,118.83,Heida Crumpton
+1/1/2024,260 Farwell Terrace,in transit,4,674.73,Harrie Gayforth
+1/1/2024,14 Portage Way,delivered,46,749.16,Ronna Yarnall
+1/1/2024,25 Truax Avenue,pending,32,772.78,Halette Gaskoin
+1/1/2024,09581 Beilfuss Avenue,pending,6,604.06,Elvira Elder
+1/1/2024,33711 Moose Pass,in transit,60,999.05,Roger Clift
+1/1/2024,173 Barby Terrace,in transit,45,911.32,Jacky Vaugham
+1/1/2024,50872 Glendale Junction,in transit,39,750.73,Hector Newe
+1/1/2024,244 6th Lane,in transit,29,625.58,Erin Physic
+1/1/2024,83539 Delaware Alley,delivered,22,49.37,Matthias Klemke
+1/1/2024,90 Mendota Terrace,in transit,5,141.4,Eduard Walton
+1/1/2024,757 Maple Wood Alley,pending,42,762.39,Holmes Rizon
+1/1/2024,2 Dahle Road,pending,41,719.22,Dewey Ludovico
+1/1/2024,09292 Ronald Regan Pass,delivered,38,797.88,Jeremy Dullard
+1/1/2024,3020 Farmco Road,delivered,42,96.36,Serena Sisey
+1/1/2024,38926 Delladonna Street,in transit,40,435.22,Euell Refford
+1/1/2024,29501 Bartillon Way,pending,26,547.87,Moll O'Hanley
+1/1/2024,99 Northport Road,pending,6,946.16,Cati Lanon
+1/1/2024,94366 Summit Drive,in transit,5,892.82,Elka Scholcroft
+1/1/2024,095 Grover Plaza,pending,36,686.55,Ev Bocock
+1/1/2024,58220 Glendale Drive,delivered,35,814.78,Delia Cypler
+1/1/2024,5 Ramsey Drive,in transit,4,917.11,Jennette Redish
+1/1/2024,993 Leroy Park,delivered,56,51.61,Saundra Boatman
+1/1/2024,3 Esch Center,in transit,6,886.29,Conney D'Onise
+1/1/2024,6966 Lyons Avenue,delivered,39,487.35,Haleigh Tyson
+1/1/2024,44626 4th Lane,pending,3,907.06,Doralynn Bysaker
+1/1/2024,15 Novick Crossing,pending,16,97.51,Chad Reyes
+1/1/2024,88465 Quincy Pass,in transit,5,534.94,Ottilie Irce
+1/1/2024,70369 Hoard Hill,delivered,32,785.05,Rikki Scranedge
+1/1/2024,4839 Burrows Circle,in transit,31,483.43,Reynold Smitherman
+1/1/2024,525 Farragut Court,pending,11,412.16,Shir Emmert
+1/1/2024,6623 Ryan Park,pending,38,329.66,Daryle Beggini
+1/1/2024,007 Lukken Crossing,pending,18,845.1,Rufe Eles
+1/1/2024,892 Gale Pass,delivered,15,144.91,Nichol Guiducci
+1/1/2024,16 Debra Alley,delivered,21,40.23,Johna Filinkov
+1/1/2024,5 Ronald Regan Point,in transit,26,859.33,Edith McCulloch
+1/1/2024,61 Lotheville Avenue,in transit,51,934.27,Lyndell Everil
+1/1/2024,4 3rd Way,pending,2,360.61,Emanuele Peto
+1/1/2024,0 Northwestern Park,delivered,27,500.25,Malvin Gallafant
+1/1/2024,04 Laurel Court,delivered,37,816.99,Cyrus Woolam
+1/1/2024,02954 Manitowish Plaza,delivered,44,63.79,Christian Meenan
+1/1/2024,9005 Pierstorff Park,pending,15,883.81,Minnaminnie Clappison
+1/1/2024,159 Pine View Circle,pending,19,409.92,Elvin Vidgen
+1/1/2024,98 Pawling Avenue,in transit,10,743.5,Lizbeth Clancey
+1/1/2024,99 Fieldstone Avenue,delivered,22,820.14,Bernadine Gemson
+1/1/2024,00 Summit Crossing,in transit,8,979.04,Olwen Bleibaum
+1/1/2024,620 Upham Parkway,in transit,42,958.41,Adel Boud
+1/1/2024,96 Colorado Avenue,delivered,25,167.52,Waverley Doret
+1/1/2024,466 Michigan Terrace,in transit,39,934.82,Rozina Fochs
+1/1/2024,3513 Mifflin Circle,in transit,20,976.9,Stu D'Orsay
+1/1/2024,725 Red Cloud Court,in transit,52,278.95,Suellen Metzig
+1/1/2024,8858 Trailsway Drive,in transit,44,429.04,Dyan Lilburn
+1/1/2024,491 Rusk Place,pending,10,455.63,Toddy Le Teve
+1/1/2024,77883 Pearson Hill,pending,58,108.32,Amabelle Baverstock
+1/1/2024,72367 Stang Avenue,in transit,58,954.23,Wendeline Everest
+1/1/2024,836 Manitowish Circle,pending,43,881.6,Lacy Kenion
+1/1/2024,4307 2nd Lane,in transit,55,759.08,Dan Langley
+1/1/2024,555 Express Terrace,pending,46,682.08,Evelyn Callingham
+1/1/2024,10 Mandrake Crossing,delivered,41,703.12,Waly Drohan
+1/1/2024,8429 Anniversary Trail,delivered,59,658.95,Raff Roglieri
+1/1/2024,8905 Talisman Avenue,delivered,17,844.93,Virgilio Burgisi
+1/1/2024,82406 Veith Road,delivered,52,617.96,Georgy Lilliman
+1/1/2024,5 Loeprich Plaza,delivered,24,145.24,Sidoney Baddeley
+1/1/2024,386 Aberg Way,in transit,36,223.1,Stinky De Bruyne
+1/1/2024,5 Merry Circle,in transit,21,873.82,Sydney Duddin
+1/1/2024,9 Ruskin Street,in transit,34,185.46,Germayne Bryns
+1/1/2024,43 Lien Terrace,in transit,14,954.94,Robb Gillease
+1/1/2024,0094 Everett Place,delivered,45,759.28,Anstice Axelbee
+1/1/2024,25 Clove Road,delivered,11,118.17,Danica Harse
+1/1/2024,334 Esch Junction,delivered,48,491.22,Sabine Grenter
+1/1/2024,95 Gateway Road,delivered,13,308.61,Brina Buddle
+1/1/2024,1148 Forest Run Center,in transit,37,225.05,Avram Meace
+1/1/2024,65144 Cottonwood Plaza,in transit,43,870.95,Pierrette Stanfield
+1/1/2024,604 Pine View Avenue,pending,26,954.18,Ellissa Hatrick
+1/1/2024,45834 8th Crossing,pending,54,217.14,Alida Melanaphy
+1/1/2024,180 Helena Place,pending,13,835.38,Mariette Quarless
+1/1/2024,822 Bluestem Pass,in transit,30,988.5,Ianthe Dumke
+1/1/2024,962 Meadow Valley Way,in transit,7,766.61,Murial Jaggi
+1/1/2024,6767 Bonner Alley,pending,8,549.78,Ana Barnish
+1/1/2024,34 Heffernan Trail,delivered,52,964.76,Gardie Wenman
+1/1/2024,3079 Bellgrove Plaza,in transit,48,310.57,Karen Biasio
+1/1/2024,25 Mallard Way,delivered,29,742.52,Jody Spillard
+1/1/2024,4 Sunfield Point,pending,36,677.65,Kristofor Dagworthy
+1/1/2024,36 Texas Road,delivered,44,495.85,Fairlie Rouff
+1/1/2024,659 Ryan Road,delivered,33,125.5,Malvina Timpany
+1/1/2024,15 Banding Parkway,in transit,40,962.76,Thorin Clinton
+1/1/2024,6 Thierer Drive,in transit,50,46.03,Brita Brasse
+1/1/2024,87 Northport Avenue,delivered,34,315.65,Starlin Bickerdicke
+1/1/2024,6114 Little Fleur Crossing,pending,16,581.21,Abner Cramb
+1/1/2024,02 Aberg Hill,pending,54,7.76,Carolynn Scrammage
+1/1/2024,959 Morrow Alley,in transit,38,734.93,Wendie Morley
+1/1/2024,261 Talmadge Terrace,pending,24,634.3,Evan Strange
+1/1/2024,3131 Ridge Oak Terrace,pending,11,551.91,Teriann Edney
+1/1/2024,18 Brown Park,in transit,46,370.23,Emmeline Isitt
+1/1/2024,78 Vera Parkway,pending,51,713.11,Eulalie Tuxill
+1/1/2024,51725 Schlimgen Pass,delivered,19,611.73,Thia Veitch
+1/1/2024,6 Continental Place,delivered,1,938.34,Con Jesteco
+1/1/2024,08 Rigney Plaza,in transit,12,32.78,Barr Beekman
+1/1/2024,7137 Esker Trail,delivered,10,979.55,Gweneth MacDaid
+1/1/2024,876 American Park,pending,30,874.63,Falkner Duny
+1/1/2024,530 Rowland Way,pending,24,116.95,Jacobo Statton
+1/1/2024,621 Shelley Junction,in transit,55,911.95,Kiel Nickels
+1/1/2024,26887 Russell Drive,delivered,26,84.98,Danna Cookney
+1/1/2024,21341 Maple Alley,pending,23,848.61,Constancy Maxsted
+1/1/2024,034 Mockingbird Drive,in transit,39,966.59,Nicol Phillippo
+1/1/2024,952 Welch Drive,delivered,59,340.49,Fremont Ranyell
+1/1/2024,6772 Pleasure Avenue,in transit,33,755.69,Livia Churchman
+1/1/2024,8 Chinook Terrace,in transit,21,450.23,Tami Tall
+1/1/2024,612 Londonderry Trail,in transit,55,699.19,Armin Isac
+1/1/2024,4873 Golden Leaf Street,in transit,15,991.7,Grantley Fearnside
+1/1/2024,3011 Forster Trail,delivered,29,424.4,Vonny Cluley
+1/1/2024,90 Roxbury Hill,delivered,8,543.85,Mikey De Giorgi
+1/1/2024,0 Sullivan Drive,in transit,42,622.32,Jillian Zannotti
+1/1/2024,3012 Blue Bill Park Parkway,pending,7,311.2,Wye Gaber
+1/1/2024,71647 Chinook Pass,pending,23,388.66,Zebulon Cardenas
+1/1/2024,2 Butternut Pass,in transit,31,629.28,Lucila Burley
+1/1/2024,238 Michigan Point,delivered,49,304.38,Isador Jiggins
+1/1/2024,84 7th Center,in transit,10,487.15,Dulcy Lauritzen
+1/1/2024,2171 Knutson Crossing,in transit,24,698.24,Honey Rosindill
+1/1/2024,560 Summit Parkway,pending,21,940.86,Perla Foulcher
+1/1/2024,8488 Melvin Terrace,in transit,21,885.76,Bartolomeo Thorbon
+1/1/2024,55802 Victoria Avenue,pending,23,312.9,Kyle Pickerell
+1/1/2024,23 Warrior Hill,in transit,38,717.84,Allene Charlson
+1/1/2024,4914 Melrose Parkway,delivered,36,195.74,Lodovico Humblestone
+1/1/2024,8 Comanche Trail,delivered,21,839.51,Bernardina Oaten
+1/1/2024,214 Meadow Valley Circle,delivered,11,892.31,Bear Wilse
+1/1/2024,14 Shelley Pass,pending,28,80.21,Jolee Dingley
+1/1/2024,58 Summerview Park,in transit,36,379.99,Brand Goulbourne
+1/1/2024,8 Moose Junction,delivered,55,584.08,Chance Odger
+1/1/2024,8753 Utah Way,delivered,27,492.97,Carolee Simcox
+1/1/2024,94791 Sommers Place,pending,58,649.1,Gearard Trevithick
+1/1/2024,0527 Mallard Street,pending,4,457.65,Margi Hazell
+1/1/2024,21902 Westridge Trail,in transit,55,766.99,Rolland Raffels
+1/1/2024,9683 Veith Parkway,pending,8,808.89,Major Bagby
+1/1/2024,4995 Lillian Junction,in transit,25,302.27,Cecilius Brackley
+1/1/2024,96 Vernon Road,pending,24,292.58,Maddi Coker
+1/1/2024,542 Grim Pass,delivered,40,311.81,Gibbie Rehor
+1/1/2024,65 Anthes Terrace,in transit,4,795.9,Kyle Renvoys
+1/1/2024,5 Toban Alley,pending,20,572.42,Elie Scotchmoor
+1/1/2024,16572 Northwestern Plaza,in transit,51,270.38,Carol Geroldi
+1/1/2024,690 Bartillon Hill,in transit,47,495.36,Meris Westlake
+1/1/2024,9526 Novick Hill,delivered,53,623.19,Sasha Guilford
+1/1/2024,440 Esch Road,delivered,19,103.69,Norean Jossum
+1/1/2024,0 Orin Alley,delivered,30,30.62,Garv Hercock
+1/1/2024,5895 Eagan Junction,in transit,4,789.73,Nerissa Trousdale
+1/1/2024,5250 Almo Circle,delivered,23,395.81,Ricoriki Surcomb
+1/1/2024,42 Mockingbird Parkway,in transit,60,408.2,Merridie Vaughton
+1/1/2024,38053 Vidon Street,pending,20,190.42,Madalena Sothern
+1/1/2024,2 Walton Court,delivered,8,575.54,Ximenez Bremner
+1/1/2024,21 Namekagon Trail,delivered,34,109.09,Devin Wolfindale
+1/1/2024,81 Coolidge Street,pending,38,444.38,Drud Scala
+1/1/2024,5729 5th Way,pending,52,372.68,Aurlie Finneran
+1/1/2024,43523 Caliangt Crossing,delivered,20,93.8,Pepillo Pionter
+1/1/2024,98035 Pennsylvania Hill,delivered,22,776.4,Bil Salzberg
+1/1/2024,774 Shopko Terrace,in transit,39,982.92,Manya Owers
+1/1/2024,73247 Sauthoff Trail,in transit,46,510.24,Lu Wilber
+1/1/2024,55888 Scott Terrace,delivered,14,541.45,Kaye Nattriss
+1/1/2024,31 Londonderry Road,in transit,21,937.19,Emlyn Berendsen
+1/1/2024,2364 Weeping Birch Terrace,delivered,55,53.47,Desdemona Regis
+1/1/2024,3032 Mallory Pass,delivered,19,479.6,Jerrome Bulluck
+1/1/2024,5 Rockefeller Plaza,pending,55,395.87,Adamo Lambourne
+1/1/2024,860 Florence Drive,delivered,4,226.84,Christan Greatham
+1/1/2024,7 Grim Center,pending,38,564.97,Jana Lehenmann
+1/1/2024,1 Vera Pass,pending,44,290.4,Pauletta Schoolfield
+1/1/2024,41 Mendota Crossing,delivered,1,564.76,Karlens Gaythwaite
+1/1/2024,8 Nevada Avenue,in transit,2,87.88,Nataline Klageman
+1/1/2024,323 North Pass,delivered,51,47.15,Lodovico Polsin
+1/1/2024,41061 Fremont Circle,delivered,59,991.52,Maggee Storror
+1/1/2024,3 Rutledge Hill,in transit,39,387.74,Fergus Canto
+1/1/2024,599 Hoepker Hill,delivered,22,572.61,Brina Clace
+1/1/2024,38348 Waubesa Parkway,delivered,48,551.97,Selinda Barnes
+1/1/2024,45713 Summit Junction,in transit,16,241.27,Godwin Tweedie
+1/1/2024,974 Manley Drive,pending,19,93.58,Pavia Brisset
+1/1/2024,4 Dapin Road,in transit,59,496.96,Amble de Savery
+1/1/2024,37737 Grover Drive,pending,4,686.43,Anna-maria Lempke
+1/1/2024,7 Sloan Avenue,in transit,58,467.26,Pamella Loutheane
+1/1/2024,716 Portage Street,pending,28,841.13,Rodrick Renard
+1/1/2024,70959 Colorado Avenue,pending,24,5.8,Henka Dairton
+1/1/2024,47 Thompson Trail,pending,12,422.78,Jeddy Whitney
+1/1/2024,1 Steensland Street,in transit,10,409.15,Amandi Besson
+1/1/2024,19 Vahlen Trail,pending,14,404.43,Brantley Phelit
+1/1/2024,6461 Birchwood Circle,delivered,40,955.77,Stefanie Hartell
+1/1/2024,3 6th Hill,in transit,4,215.58,Dori Netherwood
+1/1/2024,327 7th Road,in transit,27,708.83,Leupold Genn
+1/1/2024,7 Ridgeway Junction,in transit,20,453.95,Miguelita Wandrack
+1/1/2024,4613 Killdeer Court,delivered,31,343.95,Kariotta McAllaster
+1/1/2024,84 Thompson Place,in transit,21,763.44,Kittie Le Conte
+1/1/2024,87 Mallory Way,in transit,15,896.67,Nikolos Simonazzi
+1/1/2024,5788 Londonderry Way,pending,4,769.67,Demetra Hendrik
+1/1/2024,404 Farwell Alley,pending,50,541.61,Madlen Cotherill
+1/1/2024,6 Raven Street,pending,44,917.87,Chaddie Fontaine
+1/1/2024,54 Golf Alley,pending,22,166.38,Leonid Noli
+1/1/2024,2 Waywood Court,pending,49,33.79,Shayla Jorin
+1/1/2024,5 Melvin Parkway,pending,52,850.14,Claudina Jose
+1/1/2024,7075 Ridgeview Plaza,in transit,19,479.14,Adel Shearstone
+1/1/2024,23 Alpine Point,in transit,28,755.64,Magdalena Kunes
+1/1/2024,0810 Bartillon Pass,in transit,45,808.19,Inna Danielsohn
+1/1/2024,0 Washington Parkway,pending,29,134.52,Riane Cristol
+1/1/2024,4 Onsgard Center,delivered,59,939.26,Alano McLarty
+1/1/2024,48 Kingsford Alley,in transit,27,201.87,Willy Balog
+1/1/2024,004 John Wall Alley,delivered,39,779.09,Aridatha Wrenn
+1/1/2024,330 Huxley Avenue,in transit,38,714.22,Patsy Zanassi
+1/1/2024,59 Oneill Hill,pending,6,695.93,Ranna Clink
+1/1/2024,233 Oriole Court,delivered,23,214.12,Jorrie Delouch
+1/1/2024,1 Eastlawn Court,in transit,14,333.03,Baudoin Font
+1/1/2024,197 Ronald Regan Circle,in transit,37,192.52,Benjie Dikelin
+1/1/2024,9730 Susan Street,in transit,47,188.38,Osbert Danielsson
+1/1/2024,137 Dorton Lane,pending,15,351.14,Hillel Marklow
+1/1/2024,5 Lukken Pass,delivered,54,763.61,Benji Nesbeth
+1/1/2024,665 Merry Place,in transit,6,930.74,Virgina Mazzilli
+1/1/2024,3 Karstens Crossing,pending,26,402.91,Dix Paule
+1/1/2024,106 Mesta Junction,delivered,1,28.23,Talbot Mathieson
+1/1/2024,8 Orin Terrace,pending,3,247.33,Nels Brigstock
+1/1/2024,776 North Terrace,in transit,17,352.61,Boris Sparkwell
+1/1/2024,636 Mallard Center,pending,22,308.38,Frannie Beard
+1/1/2024,87 Maple Avenue,in transit,37,272.49,Ronni Goldsbury
+1/1/2024,544 Monument Trail,delivered,29,555.74,Jenni Klagge
+1/1/2024,26 Jenifer Crossing,pending,41,161.83,Bale Prangley
+1/1/2024,6878 Meadow Vale Terrace,in transit,19,661.97,Brocky Este
+1/1/2024,29 Lien Street,pending,11,340.91,Barbra Gidley
+1/1/2024,270 Hovde Court,delivered,52,139.22,Davine Haddacks
+1/1/2024,60755 Hazelcrest Terrace,in transit,16,293.1,Myron Connechy
+1/1/2024,06 Killdeer Parkway,delivered,23,199.03,Jorie Peacey
+1/1/2024,392 Fair Oaks Alley,in transit,7,945.42,Morrie Bernardini
+1/1/2024,51546 Surrey Drive,delivered,50,696.04,Marty Shelliday
+1/1/2024,996 Oak Valley Avenue,delivered,52,170.2,Sim Grelak
+1/1/2024,6116 Riverside Plaza,pending,57,131.11,Judie Bulfoy
+1/1/2024,531 Vera Junction,pending,57,501.25,Lucais Basil
+1/1/2024,292 4th Hill,pending,56,717.98,Guy Cornner
+1/1/2024,09 Shopko Alley,in transit,42,197.81,Falito Reddick
+1/1/2024,50 Boyd Parkway,delivered,44,809.05,Giovanni Kigelman
+1/1/2024,9423 Mayer Plaza,delivered,47,585.75,West Luker
+1/1/2024,777 Delaware Trail,in transit,3,522.0,Vitia Karchowski
+1/1/2024,925 Oriole Hill,pending,51,994.03,Bret Simla
+1/1/2024,94 Mockingbird Hill,pending,13,271.63,Orran McKeady
+1/1/2024,42356 Huxley Park,in transit,25,947.08,Aarika Pitbladdo
+1/1/2024,50021 Chinook Avenue,pending,5,403.82,Loretta Fritchley
+1/1/2024,08201 Fremont Terrace,delivered,52,866.94,Caty Yarrall
+1/1/2024,7091 Schmedeman Plaza,delivered,46,715.49,Jessamine Schneider
+1/1/2024,60 Macpherson Center,in transit,37,751.09,Donny Bitten
+1/1/2024,3467 Schiller Street,delivered,42,878.37,Tracy Magauran
+1/1/2024,574 Brickson Park Circle,delivered,39,196.67,Edi Manuely
+1/1/2024,5374 Luster Avenue,in transit,1,106.7,Gill Canet
+1/1/2024,095 Birchwood Center,delivered,26,593.42,Sherlock Killbey
+1/1/2024,95334 Scoville Park,in transit,8,429.44,Timothea Frane
+1/1/2024,1 Linden Point,in transit,57,874.95,Nike Bricknall
+1/1/2024,260 Dawn Circle,pending,33,343.34,Nanon Warin
+1/1/2024,8903 Mendota Road,delivered,23,522.15,Urbanus Antoshin
+1/1/2024,7445 Victoria Pass,in transit,50,435.91,Robinet Hughland
+1/1/2024,51598 Bellgrove Hill,pending,25,754.78,Cobby Plum
+1/1/2024,01 Melvin Place,in transit,35,120.94,Dinnie Hitschke
+1/1/2024,3774 Bartillon Terrace,in transit,29,63.21,Hally Sandlin
+1/1/2024,0566 Loftsgordon Road,delivered,14,837.03,Ibrahim Tregenna
+1/1/2024,691 Declaration Center,delivered,57,0.95,Delia Tenniswood
+1/1/2024,8377 Debs Terrace,in transit,20,669.26,Terri-jo Snuggs
+1/1/2024,6 Jenna Pass,in transit,49,599.07,Shae Bortolotti
+1/1/2024,4288 Columbus Court,pending,31,859.12,Charlie Aime
+1/1/2024,2 Old Shore Trail,in transit,32,824.89,Alvy Kuschek
+1/1/2024,63 Blackbird Lane,in transit,38,684.79,Hasty Galiford
+1/1/2024,7 Nancy Pass,in transit,19,185.51,Hastings Chell
+1/1/2024,27 Oneill Lane,pending,43,808.42,Missy Bettinson
+1/1/2024,3294 Barby Lane,pending,12,873.28,Iris Quene
+1/1/2024,777 Corry Crossing,in transit,37,584.01,Maryjo Tree
+1/1/2024,9526 Carioca Trail,in transit,3,318.26,Wyn Piaggia
+1/1/2024,98643 Canary Circle,delivered,42,323.27,Darlleen Gorriessen
+1/1/2024,237 Pearson Center,in transit,8,96.5,Shurlock Mourant
+1/1/2024,4 Shopko Center,delivered,47,536.97,Bonnibelle Wildin
+1/1/2024,84377 Birchwood Crossing,pending,36,911.3,Jehanna Overill
+1/1/2024,88 Eagan Alley,delivered,24,921.78,Katrine Wenban
+1/1/2024,401 Linden Hill,delivered,59,976.7,Aubert Poytress
+1/1/2024,46 Ridgeview Hill,in transit,53,83.54,Wye O'Fihillie
+1/1/2024,69 Park Meadow Point,pending,51,829.12,Carce Corkhill
+1/1/2024,18 Grover Park,in transit,1,35.88,Anny Keoghane
+1/1/2024,88132 Sunbrook Hill,in transit,36,696.27,Ivette MacRannell
+1/1/2024,626 Donald Center,in transit,28,695.72,Cybil Muscat
+1/1/2024,084 Ridgeview Junction,delivered,44,892.14,Donall Stapels
+1/1/2024,006 Blaine Circle,delivered,39,186.25,Rosanne Shayes
+1/1/2024,8 David Circle,pending,48,395.91,Petr Maddin
+1/1/2024,8 Cordelia Pass,pending,10,771.24,Ly Palfreyman
