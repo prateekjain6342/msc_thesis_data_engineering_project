@@ -110,7 +110,7 @@ class NormaliseOrders:
     
     def build(self):
         switcher = {
-            "_build_delivery_address": self._build_delivery_address,
+            "delivery_address": self._build_delivery_address,
             "delivery_status": self._build_delivery_status,
             "delivery_time": self._build_delivery_time,
             "delivery_cost": self._build_delivery_cost,
