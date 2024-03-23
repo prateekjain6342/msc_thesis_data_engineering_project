@@ -5,3 +5,4 @@ log.txt
 bronze_layer/
 silver_layer/
 gold_layer/
+data/case_study/*.csv
